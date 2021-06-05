@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @N1kH11
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning Algorithims and data strcutures and also SQL
-- 💞️ I’m looking to for Someone equivalednt to my skill to practice with me
+- 💞️ I’m looking to for Someone equivalent to my skill to practice with me
 - 📫 How to reach me
 - Mail me nikhilgautam4147@gmail.com
 
